@@ -106,7 +106,7 @@ p {
   }
   
   #btn-work {
-    background-color: rgba(39, 111, 191, 1);
+    background-color: rgb(35, 199, 150);
     border: 1px solid white;
     border-radius: 4px;
     color: white;
@@ -119,7 +119,7 @@ p {
   
   #btn-work:hover {
     background: white;
-    color: rgba(39, 111, 191, 1);
+    color: rgb(31, 192, 139);
     transition: 0.2s;
   }
   
@@ -146,7 +146,7 @@ p {
   }
   
   #work:hover {
-    background: rgba(39, 111, 191, 1);
+    background: rgb(39, 191, 128);
     color: white;
     transition: 0.6s;
   }
